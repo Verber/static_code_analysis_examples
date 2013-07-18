@@ -1,0 +1,16 @@
+{
+    "name": "verber/static_analysis_demo",
+    "description": "Demonstration of static code analysers",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Ivan Mosiev",
+            "email": "i.k.mosev@gmail.com"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "1.4.5",
+        "sebastian/phpcpd": "1.4.1",
+        "phpmd/phpmd": "1.4.1"
+    }
+}
