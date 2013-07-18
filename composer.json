@@ -14,3 +14,4 @@
         "phpmd/phpmd": "1.4.1"
     }
 }
+//composer install --prefer-source --no-interaction
